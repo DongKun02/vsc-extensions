@@ -1,0 +1,13 @@
+- Active File in StatusBar
+- Beautifuyy
+- Code Spell Checker
+- ESLint
+- Git History
+- GitLents 
+- Guides
+- Highlight Matching Tag
+- Markdown Navigation
+- PaperColor Redux Theme (Like It)
+- Path Intellisense
+- TsLint
+- vscode-icons
